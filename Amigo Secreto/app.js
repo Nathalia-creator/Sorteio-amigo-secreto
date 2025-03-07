@@ -53,7 +53,7 @@ function reiniciar(){
 }
 
 
-// desabilitar botão reiniciar
+
 
 
 
