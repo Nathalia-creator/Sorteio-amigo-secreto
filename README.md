@@ -8,8 +8,7 @@
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Conclusão](#conclusão)
+* [Pessoa Desenvolvedora do Projeto](#pessoa-desenvolvedora)
 
 # Descrição do projeto
 
@@ -26,6 +25,20 @@ Esse site permite que os usuários inseriram nomes de amigos em uma lista para, 
 - `Visualizar a lista:`: Os nomes inseridos aparecerão em uma lista abaixo do campo de entrada.
 - `Sorteio aleatório:`: Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página. Sendo possível sortear novamente outro amigo secreto da mesma lista anteriormente criada.
 - `Reiniciar o sorteio:`: Ao clicar no botão "Reiniciar o sorteio", irá apagar a lista atual para iniciar um novo sorteio com uma nova lista.
+
+https://github.com/user-attachments/assets/f8903b44-36c3-437b-ac1a-0b39c92a7460
+
+# Acesso ao projeto
+
+# Tecnologias utilizadas
+
+* `HTML`
+* `CSS`
+* `Javascript`
+
+# Pessoa desenvolvedora
+
+
 
   
 
