@@ -38,6 +38,9 @@ https://github.com/user-attachments/assets/9f8bdb86-8e77-48a8-89cd-f37fd29cad99
 
 # Deploy
 
+Você pode acessar o projeto no link a seguir: [Clique aqui!✨](https://desafio-amigo-secreto-al-git-d7315e-nathalias-projects-4e8344b6.vercel.app) 
+      
+
 
 
   
