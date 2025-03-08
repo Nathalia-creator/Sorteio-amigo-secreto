@@ -1,18 +1,17 @@
 ![Logo do site para fazer sorteio do amigo secreto](https://github.com/user-attachments/assets/b6470196-397b-4631-b332-fb262629d34a)
-# <h1 align="center"> Amigo secreto </h1>
+# <h1 align="center"> :family: Amigo secreto :family: </h1>
 
 # Índice 
 
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoa Desenvolvedora do Projeto](#pessoa-desenvolvedora)
+* [Deploy](#deploy)
 
 # Descrição do projeto
 
-Esse site permite que os usuários inseriram nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".
+Esse site permite que os usuários inseriram nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto". Esse site foi um desafio proposto durante meus estudos no ONE G8 (Oracle Next Education) 2025, em parceria com a Alura.
 
 # Status do projeto
 
@@ -28,15 +27,13 @@ Esse site permite que os usuários inseriram nomes de amigos em uma lista para, 
 
 https://github.com/user-attachments/assets/f8903b44-36c3-437b-ac1a-0b39c92a7460
 
-# Acesso ao projeto
-
 # Tecnologias utilizadas
 
 * `HTML`
 * `CSS`
 * `Javascript`
 
-# Pessoa desenvolvedora
+# Deploy
 
 
 
